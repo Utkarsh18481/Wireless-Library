@@ -1,1 +1,2 @@
-# Wireless-Library
+# BarCodeScanner
+BarCode scanning in WiLy
